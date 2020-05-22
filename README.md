@@ -7,7 +7,7 @@ This is a simple boilerplate to get up and running with Electron and React. It i
 #### Clone this repo
 
 ```
-git clone https://github.com/bradtraversy/simple-electron-react.git
+git clone git@github.com:canguler89/react-electronjs-bug-tracker.git
 ```
 
 #### Install dependencies
